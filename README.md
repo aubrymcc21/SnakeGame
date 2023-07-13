@@ -1,5 +1,7 @@
 Creator: Aubry McConnell
 
+Co-creator: Orion McCree
+
 Project Title: SnakeGame
 
 Date: November 30, 2017
