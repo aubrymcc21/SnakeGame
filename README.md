@@ -1,6 +1,6 @@
 Creator: Aubry McConnell
 
-Co-creator: Orion McCree
+Co-creator: Aileen Shi
 
 Project Title: SnakeGame
 
